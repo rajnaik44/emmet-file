@@ -1,0 +1,31 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "chatgpt.lang": "en",
+    "update.showReleaseNotes": false,
+    "extensions.autoUpdate": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.editor.empty.hint": "hidden",
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "git.autofetch": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.editor.enablePreview": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "files.autoSave": "afterDelay",
+    "emmet.syntaxProfiles": {
+        
+    }
+}
